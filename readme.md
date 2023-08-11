@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Elizabet Bagdasaryan</h1>
-<h3 align="center">I am a full-stack developer experienced in building web applications using React, Node, JavaScript, HTML, CSS, and Git. I have an extensive portfolio of impressive and fully responsive projects available on my GitHub.</h3>
+<h1 align="center">Hi 👋, I'm Elizabet </h1>
+<h3 align="center">Full-stack developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elizabet-bagdasaryan&label=Profile%20views&color=0e75b6&style=flat" alt="elizabet-bagdasaryan" /> </p>
 
