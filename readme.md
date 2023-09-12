@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Elizabet Bagdasaryan</h1>
-<h3 align="center">I am a full-stack developer experienced in building web applications using React, Node, JavaScript, HTML, CSS, and Git. I have an extensive portfolio of impressive and fully responsive projects available on my GitHub.</h3>
+<h1 align="center">Hi 👋, I'm Elizabet </h1>
+<h3 align="center">Full-Stack Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elizabet-bagdasaryan&label=Profile%20views&color=0e75b6&style=flat" alt="elizabet-bagdasaryan" /> </p>
 
@@ -10,7 +10,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/elizabet-bagdasaryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elizabet-bagdasaryan" height="30" width="40" /></a>
-<a href="https://discord.gg/3247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3247" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
