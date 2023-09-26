@@ -19,4 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elizabet-bagdasaryan&show_icons=true&locale=en" alt="elizabet-bagdasaryan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elizabet-bagdasaryan&" alt="elizabet-bagdasaryan" /></p>
+
